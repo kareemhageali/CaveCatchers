@@ -1,5 +1,3 @@
-#### B58 Students: we got a 73 on this
-
 // CSCB58 Winter 2017 Final Project
 
 // Cave Catchers
